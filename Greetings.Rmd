@@ -1,0 +1,10 @@
+---
+title: "Hi Dr. Redmond"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hi Dr. REdmond. I hate this class
